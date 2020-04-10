@@ -1,0 +1,14 @@
+.home_position {
+  width: 100%;
+  position: fixed;
+
+  bottom: 0;
+}
+.home {
+  height: 100%;
+  padding-bottom: 50px;
+}
+
+.home_position.iconfont {
+  font-size: 20px;
+}
